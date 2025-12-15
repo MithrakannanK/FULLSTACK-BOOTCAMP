@@ -1,0 +1,27 @@
+body {
+  background-color: pink;
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+
+img {
+  width: 100%;
+  border: 100px solid white;
+  border-radius: 50px;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  margin-top: 30px;
+}
+
+p {
+  font-size: 1rem;
+  color: blue;
+  margin-top: 15px;
+}
